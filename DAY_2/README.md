@@ -60,8 +60,7 @@ gedit sky130_fd_sc_hd__tt_025C_1v80.lib
 Examining the file makes it possible to see the available standard cells and the timing information associated with them.
 
 ### **SKY130 Liberty File**
-
-> **[ DRAG & DROP IMAGE HERE — SKY130 `.lib` FILE ]**<img width="1646" height="819" alt="day2_fistimage" src="https://github.com/user-attachments/assets/4abb919d-ae2b-45fa-bad0-62ad71e9c2ee" />
+**<img width="1646" height="819" alt="day2_fistimage" src="https://github.com/user-attachments/assets/4abb919d-ae2b-45fa-bad0-62ad71e9c2ee" />
 
 
 ---
@@ -125,7 +124,7 @@ With the hierarchy removed, the synthesis tool has greater freedom to optimize l
 
 ### **Hierarchical / Flattened Synthesis**
 
-> **[ DRAG & DROP IMAGE HERE — HIERARCHICAL / FLATTENED SYNTHESIS ]**<img width="859" height="178" alt="day2_secpic" src="https://github.com/user-attachments/assets/e5d1d9a0-8997-4a68-940e-b8511785ea20" />
+**<img width="859" height="178" alt="day2_secpic" src="https://github.com/user-attachments/assets/e5d1d9a0-8997-4a68-940e-b8511785ea20" />
 
 
 ---
@@ -263,7 +262,7 @@ Reset ─────► Clock Edge ─────► Output changes
 
 ### **Flip-Flop RTL / Code**
 
-> **[ DRAG & DROP IMAGE HERE — FLIP-FLOP RTL CODE ]**<img width="1252" height="157" alt="day2_3" src="https://github.com/user-attachments/assets/ea867587-3b08-4b34-817a-1a21f1dcb155" />
+<img width="1252" height="157" alt="day2_3" src="https://github.com/user-attachments/assets/ea867587-3b08-4b34-817a-1a21f1dcb155" />
 
 
 ---
@@ -299,8 +298,7 @@ gtkwave tb_dff_asyncres.vcd
 GTKWave was used to observe the relationship between the **clock, reset, input, and output signals** and verify the expected flip-flop behavior.
 
 ### **Simulation Result**
-
-> **[ DRAG & DROP IMAGE HERE — GTKWave FLIP-FLOP SIMULATION ]**<img width="1258" height="652" alt="day2_4" src="https://github.com/user-attachments/assets/604a2ff9-4306-4f91-a6ce-1bfacfaeb131" />
+**<img width="1258" height="652" alt="day2_4" src="https://github.com/user-attachments/assets/604a2ff9-4306-4f91-a6ce-1bfacfaeb131" />
 
 
 ---
@@ -359,7 +357,7 @@ This displays the resulting synthesized circuit graphically.
 
 ### **Gate-Level Representation**
 
-> **[ DRAG & DROP IMAGE HERE — SYNTHESIZED GATE-LEVEL FLIP-FLOP ]**<img width="1251" height="194" alt="da2_last" src="https://github.com/user-attachments/assets/8fa6b462-885c-4028-9727-4cf4daa6a52b" />
+**<img width="1251" height="194" alt="da2_last" src="https://github.com/user-attachments/assets/8fa6b462-885c-4028-9727-4cf4daa6a52b" />
 
 
 
